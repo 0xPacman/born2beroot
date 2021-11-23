@@ -1,4 +1,6 @@
 # born2beroot
 
 This project is a gate to System Administration and Virtualization.
-We will setup an operation system while implementing strict rules.
+
+PDF:
+https://cdn.intra.42.fr/pdf/pdf/33456/en.subject.pdf
