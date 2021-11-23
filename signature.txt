@@ -1,1 +1,3 @@
 cGFjbWFuIG1hZGUgdGhpcw==
+
+# the signature is the shasum of the machine from the ".vdi" file.
